@@ -1,4 +1,4 @@
-	# Contributors
+﻿	# Contributors
 - [mrranger](https://github.com/mrranger)
 - [Akromatikus](https://github.com/akromatikus)
 - [Anupam Bhakta](https://github.com/Ae-bii)
@@ -31,7 +31,7 @@
 - [HMS](https://github.com/MgPone)
   [Anca Puscasu](https://github.com/ancapuscasu)
 - [SharifRafid](https://github.com/sharifrafid)
-
+- [Obie](https://github.com/zeccuis)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Daksh Kaushik](https://github.com/DakshKaushik)
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
